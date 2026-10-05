@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.hxwz4.app-debug-36:/drawable-nodpi_favicon.png.flat",
+        "source": "com.hxwz4.app-main-38:/drawable-nodpi/favicon.png"
+    },
+    {
+        "merged": "com.hxwz4.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.hxwz4.app-main-38:/layout/activity_main.xml"
+    }
+]

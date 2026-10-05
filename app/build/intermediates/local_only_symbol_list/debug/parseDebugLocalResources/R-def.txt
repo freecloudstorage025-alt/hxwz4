@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color bg_dark
+color card_dark
+color text_main
+color text_secondary
+color white
+drawable favicon
+id btnRetry
+id btnSkip
+id progressBar
+id tvStatus
+id tvTitle
+id updatePanel
+id webContainer
+id webView
+layout activity_main
+string app_name
+string btn_retry
+string btn_skip
+string status_checking
+string status_downloading
+string status_entering
+string status_initializing
+string status_up_to_date
+string update_title
+style Theme.Hxwz4
